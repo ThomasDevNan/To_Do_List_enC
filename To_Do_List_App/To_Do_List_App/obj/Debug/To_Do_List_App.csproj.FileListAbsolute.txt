@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\To_Do_List_App\To_Do_List_App\bin\Debug\To_Do_List_App.exe.config
+C:\Users\User\source\repos\To_Do_List_App\To_Do_List_App\bin\Debug\To_Do_List_App.exe
+C:\Users\User\source\repos\To_Do_List_App\To_Do_List_App\bin\Debug\To_Do_List_App.pdb
+C:\Users\User\source\repos\To_Do_List_App\To_Do_List_App\obj\Debug\To_Do_List_App.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\To_Do_List_App\To_Do_List_App\obj\Debug\To_Do_List_App.ToDoListEnC.resources
+C:\Users\User\source\repos\To_Do_List_App\To_Do_List_App\obj\Debug\To_Do_List_App.Properties.Resources.resources
+C:\Users\User\source\repos\To_Do_List_App\To_Do_List_App\obj\Debug\To_Do_List_App.csproj.GenerateResource.cache
+C:\Users\User\source\repos\To_Do_List_App\To_Do_List_App\obj\Debug\To_Do_List_App.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\To_Do_List_App\To_Do_List_App\obj\Debug\To_Do_List_App.exe
+C:\Users\User\source\repos\To_Do_List_App\To_Do_List_App\obj\Debug\To_Do_List_App.pdb
